@@ -12,7 +12,7 @@ and clean architecture principles.
 - Modern Frontend SPA
 
 ## Tech Stack (Planned)
-- Backend: FastAPI / Node.js
+- Backend: FastAPI
 - Frontend: React
 - Database: PostgreSQL / SQLite
 - Testing: Pytest / Jest

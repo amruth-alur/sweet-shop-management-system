@@ -23,5 +23,5 @@ and clean architecture principles.
 ## Author
 Amruth Alur
 
-![Resume Views](https://komarev.com/ghpvc/?username=amruth-alur-sweet-shop3&label=%F0%9F%91%81&color=0e75b6&style=flat)
+![Resume Views](https://komarev.com/ghpvc/?username=amruth-alur-sweet-shop4&label=%F0%9F%91%81&color=0e75b6&style=flat)
 
